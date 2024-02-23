@@ -1,0 +1,9 @@
+.app {
+    padding: 80px 0;
+    max-width: 480px;
+    margin: 0 auto;
+}
+
+.app__heading {
+    text-align: center;
+}
